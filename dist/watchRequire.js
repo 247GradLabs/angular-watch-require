@@ -1,3 +1,5 @@
+'use strict'
+
 (function() {
   var NgWatchRequire, NgWatchRequireMultiListener, wrap,
     __slice = [].slice,
