@@ -1,6 +1,6 @@
 {
-  name: "angular-watch-require",
-  version: "0.1.0",
+  "name": "angular-watch-require",
+  "version" : "0.1.0",
   "devDependencies": {
     "grunt-karma": "^0.8.3",
     "grunt": "^0.4.5",
